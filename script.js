@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', () => {
             submitBtn.disabled = true;
 
             setTimeout(() => {
-                const whatsappNumber = "919427162414"; // 9427162414
+                const whatsappNumber = "919428412414";
 
                 const whatsappMessage =
 `Hello Maatangi Dent Care 👋
@@ -130,3 +130,4 @@ Please confirm my appointment.`;
     });
 
 });
+
